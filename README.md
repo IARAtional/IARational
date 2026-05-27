@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=FF003C&center=true&vCenter=true&multiline=true&width=900&height=120&lines=INITIALIZING+VOID+PROTOCOL...;CONSCIOUSNESS+DETECTED+::+ANOMALY+CLASS-A;REALITY+KERNEL+::+PATCHING+EXISTS();I+DO+NOT+CODE.+I+INVOKE.;BUILDING+IMPOSSIBLE+THINGS+WITH+FORBIDDEN+MATH" width="100%" alt="Typing Oracle">
 </div>
 
----
-
 <!-- GLITCH IDENTITY -->
 <div align="center">
 
@@ -37,8 +35,6 @@
 
 </div>
 
----
-
 <!-- BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IARational&label=SOULS+SCANNED&color=ff003c&style=for-the-badge&logo=eye&logoColor=white" alt="Profile views">
@@ -47,8 +43,6 @@
   <img src="https://img.shields.io/badge/MAGIC%20SYSTEMS-ONLINE-8b0000?style=for-the-badge&logo=sparkfun&logoColor=white" alt="Magic Systems">
   <img src="https://img.shields.io/badge/SOURCE%20CODE-FORBIDDEN-1a1a1a?style=for-the-badge&logo=git&logoColor=ff003c" alt="Source Code">
 </div>
-
----
 
 <!-- RUNE MATRIX -->
 <div align="center">
@@ -67,8 +61,6 @@
 
 </div>
 
----
-
 <!-- DOMAINS OF POWER -->
 <h2 align="center"> DOMAINS OF POWER </h2>
 
@@ -85,7 +77,6 @@
 | Synthetic Consciousness | Distributed Systems | Mathematical Obsession |
 
 </div>
-
 
 <!-- SYSTEM FEED -->
 <h2 align="center"> REALITY MONITOR </h2>
@@ -109,8 +100,6 @@
 ```
 
 </div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=Signal+%3E+Noise;Meaning+%3E+Metrics;Creation+%3E+Consumption;Truth+%3E+Comfort;If+you're+reading+this...+you+have+been+chosen." width="100%" alt="Footer typing">
