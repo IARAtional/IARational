@@ -196,6 +196,11 @@
 
 ---
 
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IARational/IARational/main/assets/space_invaders_footer.gif" width="100%" alt="Space Invaders Pixel Art Animation">
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=Signal+%3E+Noise;Meaning+%3E+Metrics;Creation+%3E+Consumption;Truth+%3E+Comfort;If+you're+reading+this...+you+have+been+chosen." width="100%" alt="Footer typing">
 </div>
